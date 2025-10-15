@@ -4,7 +4,7 @@
 
 Este repositório contém a solução para o **Teste Avaliativo para Vaga de Bolsista em Engenharia/Análise de Dados**. O projeto realiza um ciclo completo de análise de dados, desde a extração de informações da API do ObrasGov.br até a apresentação de insights visuais e conclusões sobre o cenário de obras públicas no Distrito Federal.
 
-O notebook (`lappis (1).ipynb`) demonstra habilidades em:
+O notebook (`desafio_dados.ipynb`) demonstra habilidades em:
 - Integração com APIs (`requests`)
 - Manipulação e tratamento de dados (`pandas`)
 - Armazenamento em banco de dados (`sqlalchemy`, `sqlite`)
